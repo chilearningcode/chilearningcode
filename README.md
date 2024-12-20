@@ -6,7 +6,7 @@ I'm Tri, currently majoring in Supply Chain Management. I've always believed tha
 
 ### How to contact me? 
 <div id="badges">
-  <a href="www.linkedin.com/in/chilamviec">
+  <a href="www.linkedin.com/in/tri-nguyen-le-minh-9276ba23a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
