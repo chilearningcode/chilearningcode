@@ -5,12 +5,19 @@ I'm Tri, currently majoring in Supply Chain Management. I've always believed tha
 <!-- I’d love to hear any recommendations you might have to help me sharpen my skills even further. Looking forward to connecting! -->
 
 ### How to contact me? 
+<!--
 <div id="badges">
   <a href="www.linkedin.com/in/tri-nguyen-le-minh-9276ba23a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 [LinkedIn](www.linkedin.com/in/tri-nguyen-le-minh-9276ba23a)
+-->
+<p>
+  <a href="www.linkedin.com/in/tri-nguyen-le-minh-9276ba23a">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
 <!--
 **chilearningcode/chilearningcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
