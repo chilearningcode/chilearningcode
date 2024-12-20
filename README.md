@@ -1,6 +1,9 @@
 # Hello World! 👋👋
 
-Hey there! I'm Tri, currently majoring in Supply Chain Management. I've always believed that data is key to making smart decisions, which is why I've developed a keen interest in data analytics. I've taken a few courses on the topic and tackled some case studies that really opened my eyes to the power of data. I'm excited to share my projects with you all and explore how we can leverage data to improve decision-making together! 
+### Welcome to my page 👍
+I'm Tri, currently majoring in Supply Chain Management. I've always believed that data is key to making smart decisions, which is why I've developed a keen interest in data analytics. I've taken a few courses on the topic and tackled some case studies that really opened my eyes to the power of data. I'm excited to share my projects with you all and explore how we can leverage data to improve decision-making together! 
+
+<!-- I’d love to hear any recommendations you might have to help me sharpen my skills even further. Looking forward to connecting! -->
 <!--
 **chilearningcode/chilearningcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
