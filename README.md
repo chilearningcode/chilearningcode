@@ -1,5 +1,5 @@
 
-## <img src="https://github.com/user-attachments/assets/d4557ade-586b-4a5b-ba7b-8b1b94d15b5f" alt="man-lifting-weights-medium-light-skin-tone-svgrepo-com" width="30" height="30"> Hello World! 
+# <img src="https://github.com/user-attachments/assets/d4557ade-586b-4a5b-ba7b-8b1b94d15b5f" alt="man-lifting-weights-medium-light-skin-tone-svgrepo-com" width="30" height="30"> Hello World! 
 
 I'm Tri, currently majoring in Supply Chain Management. During my college years, I had the opportunity to participate in an international exchange program in Korea due to my academic achievements. My experience in the marine industry provided me with a strong foundation in maritime principles. Additionally, my studies and hands-on projects in supply chain management have sharpened my data analytics skills using tools like Python, SQL, and Power BI. Beyond academics, I have a passion for sports, especially calisthenics, and I've worked as a freelance personal trainer in this field.
 
