@@ -28,11 +28,19 @@ I've always believed that data is key to making smart decisions, which is why I'
 
 <div class="grid" markdown>
   
-![33fd8de1-2552-4e0f-bcd9-caced8db7d81](https://github.com/user-attachments/assets/695dcfcc-58f6-433b-8738-cf9d8e6e38a6?text=1) ![e8ae77c1-392d-422e-97ee-a91b6af7468e](https://github.com/user-attachments/assets/6ad420ac-ed70-4e36-86c8-acc5b2de3ff7?text=2) ![IMG_7443](https://github.com/user-attachments/assets/46cdd686-dde9-462e-b296-1e1f79fe2721?text=3) ![1AAF85A9-B1A7-423C-ADDA-EB353855E855](https://github.com/user-attachments/assets/e8eacbdd-64f8-4ba6-9323-7ea1abcddede?text=4)
+![33fd8de1-2552-4e0f-bcd9-caced8db7d81](https://github.com/user-attachments/assets/695dcfcc-58f6-433b-8738-cf9d8e6e38a6?text=1) 
+![e8ae77c1-392d-422e-97ee-a91b6af7468e](https://github.com/user-attachments/assets/6ad420ac-ed70-4e36-86c8-acc5b2de3ff7?text=2) 
+![IMG_7443](https://github.com/user-attachments/assets/46cdd686-dde9-462e-b296-1e1f79fe2721?text=3) 
+![1AAF85A9-B1A7-423C-ADDA-EB353855E855](https://github.com/user-attachments/assets/e8eacbdd-64f8-4ba6-9323-7ea1abcddede?text=4)
 
 </div> 
 
-
+<p float="left">
+  <img src="[33fd8de1-2552-4e0f-bcd9-caced8db7d81](https://github.com/user-attachments/assets/695dcfcc-58f6-433b-8738-cf9d8e6e38a6?text=1)" width="100" />
+  <img src="[e8ae77c1-392d-422e-97ee-a91b6af7468e](https://github.com/user-attachments/assets/6ad420ac-ed70-4e36-86c8-acc5b2de3ff7?text=2)" width="100" /> 
+  <img src="[IMG_7443](https://github.com/user-attachments/assets/46cdd686-dde9-462e-b296-1e1f79fe2721?text=3)" width="100" />
+  <img src="[1AAF85A9-B1A7-423C-ADDA-EB353855E855](https://github.com/user-attachments/assets/e8eacbdd-64f8-4ba6-9323-7ea1abcddede?text=4)" width="100" />
+</p>
 
 ### My Projects 💻
 
