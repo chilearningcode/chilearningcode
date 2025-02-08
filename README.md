@@ -15,7 +15,7 @@ I've always believed that data is key to making smart decisions, which is why I'
 
 <p style="display: flex; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/fb8a36c4-42db-402e-9336-d74b2a35722b" width="40" />
-  <img src="https://github.com/user-attachments/assets/2dabe4fb-d7ec-4e57-80c4-7f91fba75d30" width="40" />
+  <img src="https://github.com/user-attachments/assets/2dabe4fb-d7ec-4e57-80c4-7f91fba75d30" width="48" />
   <img src="https://github.com/user-attachments/assets/1e97e0f1-8497-45e3-8034-7b4fbf6137a4" width="40" />
 </p>
 
