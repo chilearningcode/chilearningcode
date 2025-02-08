@@ -1,6 +1,6 @@
 # Hello World! 🚢
 
-### Welcome you to my Github page, let me introduce a little 
+### 👋 Welcome you to my Github page, let me introduce a little 
 I'm Tri, currently majoring in Supply Chain Management. During my college years, I had the opportunity to participate in an international exchange program in Korea due to my academic achievements. My experience in the marine industry provided me with a strong foundation in maritime principles. Additionally, my studies and hands-on projects in supply chain management have sharpened my data analytics skills using tools like Python, SQL, and Power BI. Beyond academics, I have a passion for sports, especially calisthenics, and I've worked as a freelance personal trainer in this field.
 
 I've always believed that data is key to making smart decisions, which is why I've developed a keen interest in data analytics. I'm excited to share my projects with you all and explore how we can leverage data to improve decision-making together!
