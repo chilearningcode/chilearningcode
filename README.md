@@ -27,3 +27,20 @@ I've always believed that data is key to making smart decisions, which is why I'
 </p>
 
 
+### 🛠 Tools
+
+<p style="display: flex; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/fb8a36c4-42db-402e-9336-d74b2a35722b" width="30" />
+  <img src="https://github.com/user-attachments/assets/a39d794b-1c97-40ae-8dbc-be74a5e30fb9" width="30" />
+  <img src="https://github.com/user-attachments/assets/63ec3869-c0ce-4f27-937d-b189b2056c0a" width="30" />
+</p>
+
+### 🇰🇷 My Journey in Korea
+
+<p>
+  <img src="https://github.com/user-attachments/assets/695dcfcc-58f6-433b-8738-cf9d8e6e38a6" width="300" style="margin-right: 10px; margin-bottom: 10px;" />
+  <img src="https://github.com/user-attachments/assets/46cdd686-dde9-462e-b296-1e1f79fe2721" width="300" style="margin-right: 10px; margin-bottom: 10px;" />
+  <br>
+  <img src="https://github.com/user-attachments/assets/6ad420ac-ed70-4e36-86c8-acc5b2de3ff7" width="300" style="margin-right: 10px; margin-bottom: 10px;" />
+  <img src="https://github.com/user-attachments/assets/e8eacbdd-64f8-4ba6-9323-7ea1abcddede" width="300" style="margin-right: 10px; margin-bottom: 10px;" />
+</p>
