@@ -24,7 +24,7 @@ I've always believed that data is key to making smart decisions, which is why I'
 -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chilamviec/)
 
-### 🚢 My journey 
+### 🚢 My journey in Korea 
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/695dcfcc-58f6-433b-8738-cf9d8e6e38a6" width="500" />
