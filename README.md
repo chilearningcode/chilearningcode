@@ -4,6 +4,7 @@ I'm Tri, currently majoring in Supply Chain Management. During my college years,
 
 I've always believed that data is key to making smart decisions, which is why I've developed a keen interest in data analytics. I'm excited to share my projects with you all and explore how we can leverage data to improve decision-making together!
 
+---
 
 ### 📫 Want to reach me? 🤙
 
