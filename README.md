@@ -25,6 +25,7 @@ I've always believed that data is key to making smart decisions, which is why I'
 
 <p style="display: flex; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/fb8a36c4-42db-402e-9336-d74b2a35722b" width="30" />
+  <img src="http://www.w3.org/2000/svg" width="30" />
 </p>
 
 ### 🇰🇷 My Journey in Korea
