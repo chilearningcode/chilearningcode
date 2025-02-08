@@ -10,7 +10,7 @@ I've always believed that data is key to making smart decisions, which is why I'
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chilamviec/)
 
 
-### 🛠 Tools
+### 🛠 Tools for Data analysis
 
 <p style="display: flex; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/fb8a36c4-42db-402e-9336-d74b2a35722b" width="40" />
