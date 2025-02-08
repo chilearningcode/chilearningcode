@@ -10,7 +10,7 @@ I've always believed that data is key to making smart decisions, which is why I'
 
 ### 🧰 Tools 
 
-<p>
+<p style="display: flex; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/fb8a36c4-42db-402e-9336-d74b2a35722b" width="30" />
   <img src="https://github.com/user-attachments/assets/a39d794b-1c97-40ae-8dbc-be74a5ee30fb" width="30" />
   <img src="https://github.com/user-attachments/assets/63ec3869-c0ce-4f27-937d-b189b2056c0a" width="30 />
