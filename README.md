@@ -11,7 +11,6 @@ I've always believed that data is key to making smart decisions, which is why I'
 
 
 ### 🛠 Tools
-![icons8-power-bi-2021](https://github.com/user-attachments/assets/2dabe4fb-d7ec-4e57-80c4-7f91fba75d30)<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 48 48" width="48px" height="48px" baseProfile="basic"><path fill="#eda503" d="M38,44H26c-0.552,0-1-0.448-1-1V5c0-0.552,0.448-1,1-1h12c0.552,0,1,0.448,1,1v38	C39,43.552,38.552,44,38,44z"/><path fill="#ffca28" d="M30,44H18c-0.552,0-1-0.448-1-1V15c0-0.552,0.448-1,1-1h12c0.552,0,1,0.448,1,1v28	C31,43.552,30.552,44,30,44z"/><path fill="#ffe082" d="M22,44H10c-0.552,0-1-0.448-1-1V25c0-0.552,0.448-1,1-1h12c0.552,0,1,0.448,1,1v18	C23,43.552,22.552,44,22,44z"/></svg>
 
 <p style="display: flex; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/fb8a36c4-42db-402e-9336-d74b2a35722b" width="40" />
