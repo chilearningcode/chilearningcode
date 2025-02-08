@@ -1,6 +1,6 @@
-# Hello World! 👋👋
+# Hello World! 🚢
 
-### Welcome to my page 👨🇻🇳
+### Welcome you to my Github page, let me introduce a little 
 I'm Tri, currently majoring in Supply Chain Management. During my college years, I had the opportunity to participate in an international exchange program in Korea due to my academic achievements. My experience in the marine industry provided me with a strong foundation in maritime principles. Additionally, my studies and hands-on projects in supply chain management have sharpened my data analytics skills using tools like Python, SQL, and Power BI. Beyond academics, I have a passion for sports, especially calisthenics, and I've worked as a freelance personal trainer in this field.
 
 I've always believed that data is key to making smart decisions, which is why I've developed a keen interest in data analytics. I'm excited to share my projects with you all and explore how we can leverage data to improve decision-making together!
@@ -23,6 +23,16 @@ I've always believed that data is key to making smart decisions, which is why I'
 </p>
 -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chilamviec/)
+
+### 🚢 My journey 
+
+![33fd8de1-2552-4e0f-bcd9-caced8db7d81](https://github.com/user-attachments/assets/695dcfcc-58f6-433b-8738-cf9d8e6e38a6)
+![e8ae77c1-392d-422e-97ee-a91b6af7468e](https://github.com/user-attachments/assets/6ad420ac-ed70-4e36-86c8-acc5b2de3ff7)
+![IMG_7443](https://github.com/user-attachments/assets/46cdd686-dde9-462e-b296-1e1f79fe2721)
+![1AAF85A9-B1A7-423C-ADDA-EB353855E855](https://github.com/user-attachments/assets/e8eacbdd-64f8-4ba6-9323-7ea1abcddede)
+
+
+
 
 
 ### My Projects 💻
