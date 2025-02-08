@@ -18,7 +18,7 @@ I've always believed that data is key to making smart decisions, which is why I'
 <p style="display: flex; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/fb8a36c4-42db-402e-9336-d74b2a35722b" width="30" />
   <img src="https://github.com/user-attachments/assets/c40e81da-85c5-4bde-b807-5fa8669d0472" width="30" />
-  <img src="https://github.com/user-attachments/assets/63ec3869-c0ce-4f27-937d-b189b2056c0a" width="30" />
+  <img src="https://github.com/user-attachments/assets/094ccb27-7ac4-4863-99ed-5f058a9b0f23" width="30" />
 </p>
 
 ### 🇰🇷 My Journey in Korea
