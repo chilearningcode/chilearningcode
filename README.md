@@ -1,6 +1,4 @@
-![database-sql](https://github.com/user-attachments/assets/094ccb27-7ac4-4863-99ed-5f058a9b0f23)
-![noun-sql-6672725](https://github.com/user-attachments/assets/46340ba9-cc12-483a-8fe9-0614ba37af48)
-![noun-sql-6672725](https://github.com/user-attachments/assets/c40e81da-85c5-4bde-b807-5fa8669d0472)
+
 # Hello World! 🏋️‍♂️
 I'm Tri, currently majoring in Supply Chain Management. During my college years, I had the opportunity to participate in an international exchange program in Korea due to my academic achievements. My experience in the marine industry provided me with a strong foundation in maritime principles. Additionally, my studies and hands-on projects in supply chain management have sharpened my data analytics skills using tools like Python, SQL, and Power BI. Beyond academics, I have a passion for sports, especially calisthenics, and I've worked as a freelance personal trainer in this field.
 
@@ -18,6 +16,7 @@ I've always believed that data is key to making smart decisions, which is why I'
 <p style="display: flex; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/fb8a36c4-42db-402e-9336-d74b2a35722b" width="30" />
   <img src="https://github.com/user-attachments/assets/c40e81da-85c5-4bde-b807-5fa8669d0472" width="30" />
+  <img src="github.com/user-attachments/assets/be9e15be-1c5f-4295-a05a-e17eb4cc5a6b" width="30" />
 </p>
 
 ### 🇰🇷 My Journey in Korea
